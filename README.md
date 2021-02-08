@@ -6,3 +6,5 @@ Jack.Che
 Gage Wodrich
 Karl Todd
 Jigme Fritz
+
+description of our project, an rpg game added by Jack Che
